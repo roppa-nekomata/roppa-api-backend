@@ -1,4 +1,4 @@
-# Roppa API Backend
+# Roppa API Backend (Moved to https://github.com/unchartedsky/roppa-api-backend)
 
 Lightweight Java API Backend
 * The goal of this project is making a framework fit to microservice and should sustain a performance-critical service.
